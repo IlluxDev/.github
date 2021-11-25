@@ -116,4 +116,7 @@ dist
 
 # Allow ENV Declerations
 !env.d.ts
+
+# Lock Files
+package-lock.json
 ```
