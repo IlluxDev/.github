@@ -1,1 +1,1 @@
-![Banner](https://github.com/IlluxDev/Illux/blob/main/Banner.jpeg?raw=true)
+![Banner](https://github.com/IlluxDev/.github/blob/main/profile/Banner.jpg?raw=true)
