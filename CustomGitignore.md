@@ -119,4 +119,8 @@ dist
 
 # Lock Files
 package-lock.json
+**/package-lock.json
+
+# NodeJS
+**/node_modules
 ```
