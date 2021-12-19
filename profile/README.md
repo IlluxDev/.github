@@ -1,4 +1,4 @@
-![Banner]https://github.com/IlluxDev/Illux/raw/main/ProfileBanner.png)
+![Banner](https://github.com/IlluxDev/Illux/raw/main/ProfileBanner.png)
 # What is ILLUX?
 ILLUX is a development team trying to change the way of developing software. We are also creating a chat platform suited for professionals and everyday users!
 
